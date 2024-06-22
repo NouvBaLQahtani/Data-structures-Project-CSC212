@@ -32,9 +32,7 @@ In the second phase of the project, the following tasks are to be completed:
 2. Provide the Time Complexity Analysis for the three methods of the other group's code 
 
 
-3. Demonstration
-
-we conducted a presentation to briefly summarize our time complexity analysis, Discussed the key challenges we encountered and Highlighted the main lessons learned.
+3.  we conducted a presentation to briefly summarize our time complexity analysis, Discussed the key challenges we encountered and Highlighted the main lessons learned.
 
 
 ## Time Complexity Analysis
